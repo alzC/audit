@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Oswald:wght@500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+}
+p{
+    font-weight: 500;
+    color: #1D1D1F;
+    font-style: normal;
+}
+.hero-section{
+    width: 100%;
+}
+.hero-section img{
+    width: 100%;
+}
+hr{
+    border: 0.5px solid black;
+}
