@@ -7,4 +7,4 @@ Ce projet est un audit du site (https://www.mundo-offshore.fr/). Cet audit a pou
 - Le code Javascript/Jquery
 - Le SEO
 ## Consulter l'audit 💻
-Vous pouvez retrouver l'audit complet sur [https://alzc.github.io/audit/access.html).
+Vous pouvez retrouver l'audit complet sur [https://alzc.github.io/audit).
