@@ -3,7 +3,6 @@
 Ce projet est un audit du site (https://www.mundo-offshore.fr/). Cet audit a pour but d'évaluer :
 - L'expérience utilisateur
 - L'accessibilité
-- Le code HTML/CSS
 - Le code Javascript/Jquery
 - Le SEO
 ## Consulter l'audit 💻
